@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Majstx located in the US Virgin Islands.
 - 👀 I’m a retired US Marine interested in exploring and learning Github, Solana, tokens and DAPPS.
-- 🌱 I’m currently learning blockchain and developer roles.
 - 💞️ I’m looking to collaborate on a DAPP project that leases Web3 domains.
 - 📫 How to reach me majestic.advising@gmail.com
 
