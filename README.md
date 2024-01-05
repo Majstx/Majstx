@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Majstx located in the US Virgin Islands.
+- 👋 Hi, I’m Remedy located in the US Virgin Islands.
 - 👀 I’m a retired US Marine interested in exploring and learning Github, Solana, tokens and DAPPS.
-- 💞️ I’m looking to collaborate on a DAPP project that leases Web3 domains.
+- 💞️ I’m looking to collaborate on a DAPP project that builds on upon itslef on the Solana ecosystem.
 - 📫 How to reach me majestic.advising@gmail.com
 
 <!---
